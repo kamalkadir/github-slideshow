@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our updated slide!"
 ---
-This is some text for tutorial  step 7.
+This is my new updated slide!
 Use the left arrow to go back!
